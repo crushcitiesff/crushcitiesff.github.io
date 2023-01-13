@@ -6,7 +6,7 @@
 <body>
   <header class="header" >
           <nav class="navbar">
-              <a href="./test.html">home</a>
+              <a href="./Home.html">home</a>
           </nav>
   </header>
 </body>  
