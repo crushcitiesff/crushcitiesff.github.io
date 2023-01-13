@@ -1,6 +1,8 @@
-layout: page
-title: "HELLO 1234"
-permalink: /about/contact/
+---
+title: PAGE TITLE HERE
+layout: template
+filename: PAGE-NAME-md
+--- 
 
 
 TEST NEW PAGE
