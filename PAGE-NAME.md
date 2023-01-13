@@ -1,6 +1,6 @@
 layout: page
 title: "HELLO 1234"
-permalink: /test2
+permalink: /about/contact
 
 
 TEST NEW PAGE
