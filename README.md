@@ -1,5 +1,5 @@
 # Crush Cities FF
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 </head>
